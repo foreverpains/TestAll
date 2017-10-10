@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: materials/a/backdrop.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: materials/a/brick.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: materials/backdrop 1.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: materials/brick 1.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: materials/burlap.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: materials/sand.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: female.unity3d
+      Dependencies: {}

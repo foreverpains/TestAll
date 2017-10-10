@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 430660418
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77a1496b8fc404f970b93ca7db4b5b0d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 629335a92f4b17a508b42bc764691432
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Materials/brick 1.mat
+Dependencies: []

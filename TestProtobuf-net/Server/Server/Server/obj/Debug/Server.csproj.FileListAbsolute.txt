@@ -1,0 +1,8 @@
+D:\WorkspaceU3D\My\TestProtobuf-net\Server\Server\Server\bin\Debug\Server.exe
+D:\WorkspaceU3D\My\TestProtobuf-net\Server\Server\Server\bin\Debug\Server.pdb
+D:\WorkspaceU3D\My\TestProtobuf-net\Server\Server\Server\bin\Debug\protobuf-net.dll
+D:\WorkspaceU3D\My\TestProtobuf-net\Server\Server\Server\bin\Debug\protobuf-net.pdb
+D:\WorkspaceU3D\My\TestProtobuf-net\Server\Server\Server\bin\Debug\protobuf-net.xml
+D:\WorkspaceU3D\My\TestProtobuf-net\Server\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\WorkspaceU3D\My\TestProtobuf-net\Server\Server\Server\obj\Debug\Server.exe
+D:\WorkspaceU3D\My\TestProtobuf-net\Server\Server\Server\obj\Debug\Server.pdb

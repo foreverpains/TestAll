@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 801989134
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5e2b87a7fdeeaf9351f8771ff37936ca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 629335a92f4b17a508b42bc764691432
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Materials/burlap.mat
+Dependencies: []

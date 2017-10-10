@@ -1,0 +1,9 @@
+D:\WorkspaceU3D\My\Chat-master-Protobuf-net\Server\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\WorkspaceU3D\My\Chat-master-Protobuf-net\Server\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\WorkspaceU3D\My\Chat-master-Protobuf-net\Server\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\WorkspaceU3D\My\Chat-master-Protobuf-net\Server\ConsoleApplication2\bin\Debug\protobuf-net.dll
+D:\WorkspaceU3D\My\Chat-master-Protobuf-net\Server\ConsoleApplication2\bin\Debug\protobuf-net.pdb
+D:\WorkspaceU3D\My\Chat-master-Protobuf-net\Server\ConsoleApplication2\bin\Debug\protobuf-net.xml
+D:\WorkspaceU3D\My\Chat-master-Protobuf-net\Server\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+D:\WorkspaceU3D\My\Chat-master-Protobuf-net\Server\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\WorkspaceU3D\My\Chat-master-Protobuf-net\Server\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
